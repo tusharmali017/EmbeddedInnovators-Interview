@@ -1,4 +1,4 @@
-# EmbeddedInnovator
+# Embedded Innovators
 
 Welcome to Embedded Innovator questions repository! This repository is a collection of interview questions and resources for various embedded verticals. Whether you're a job seeker preparing for an interview or an interviewer looking for questions to assess candidates, this repository aims to provide a wide range of topics to cover.
 
@@ -14,7 +14,7 @@ To access the interview questions and resources in this repository, you can eith
 
 To clone the repository, use the following command:
 
-https://github.com/imsunilvaghela/TheEmbeDEADInterview.git
+https://github.com/tusharmali017/EmbeddedInnovators-Interview.git
 
 ## Topics Covered
 
