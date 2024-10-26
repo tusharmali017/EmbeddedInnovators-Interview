@@ -1,6 +1,6 @@
 # Embedded Innovators
 
-Welcome to Embedded Innovator questions repository! This repository is a collection of interview questions and resources for various embedded verticals. Whether you're a job seeker preparing for an interview or an interviewer looking for questions to assess candidates, this repository aims to provide a wide range of topics to cover.
+Welcome to Embedded Innovators questions repository! This repository is a collection of interview questions and resources for various embedded verticals. Whether you're a job seeker preparing for an interview or an interviewer looking for questions to assess candidates, this repository aims to provide a wide range of topics to cover.
 
 ## Introduction
 
